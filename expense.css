@@ -15,8 +15,8 @@ header {
   background-color: #1e1e1e;
   padding: 20px;
   text-align: center;
-  color: rgb(134, 74, 110); /* Orange color for a pop effect */
-  border-bottom: 4px solid rgb(73, 37, 95); /* Deep orange for a more vibrant look */
+  color: rgb(134, 74, 110);
+  border-bottom: 4px solid rgb(73, 37, 95);
 }
 
 header h1 {
@@ -38,7 +38,7 @@ header h1 {
   display: block;
   margin: 10px 0 5px;
   font-weight: 100;
-  color: white; /* Orange color for a pop effect */
+  color: rgb(255, 249, 249);
 }
 
 .input-section input {
@@ -52,7 +52,7 @@ header h1 {
 }
 
 .input-section button {
-  background-color: rgb(73, 37, 95); /* Deep orange for buttons */
+  background-color: rgb(73, 37, 95);
   color: #fff;
   border: none;
   padding: 10px;
@@ -63,9 +63,8 @@ header h1 {
 }
 
 .input-section button:hover {
-  background-color: rgb(134, 74, 110); /* Darker orange for button hover */
+  background-color: rgb(134, 74, 110);
 }
-
 .summary {
   margin-top: 20px;
   text-align: center;
@@ -100,7 +99,7 @@ header h1 {
 }
 
 .expense-list button {
-  background-color: #f44336; /* Red for delete buttons */
+  background-color: #f44336;
   color: #fff;
   border: none;
   padding: 5px;
@@ -110,7 +109,7 @@ header h1 {
 }
 
 .expense-list button:hover {
-  background-color: #c62828; /* Darker red for button hover */
+  background-color: #c62828;
 }
 
 #chart-container {
